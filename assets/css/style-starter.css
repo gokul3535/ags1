@@ -2777,28 +2777,28 @@ h3.hny-title.two {
     position: relative;
     z-index: 1; }
   .w3l-banner-slider-main .carousel-item {
-    background: url(../images/bg1.jpg) no-repeat;
+    background: url(../images/bg1.gif) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover; }
   .w3l-banner-slider-main .carousel-item.item2 {
-    background: url(../images/bg2.jpg) no-repeat;
+    background: url(../images/bg2.gif) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover; }
   .w3l-banner-slider-main .carousel-item.item3 {
-    background: url(../images/bg3.jpg) no-repeat;
+    background: url(../images/bg3.gif) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover; }
   .w3l-banner-slider-main .carousel-item.item4 {
-    background: url(../images/bg4.jpg) no-repeat;
+    background: url(../images/bg4.gif) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
