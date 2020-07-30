@@ -4146,7 +4146,7 @@ span.fa.fa-play {
 .w3l-inner-page-main {
   /*-- Responsive design --*/ }
   .w3l-inner-page-main .breadcrumb-infhny {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../images/bg2.2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -4199,7 +4199,7 @@ span.fa.fa-play {
       min-height: 200px; } }
 
 .w3l-content-5 .content-5-main {
-  background: url(../images/bg3.jpg) no-repeat bottom;
+  background: url(../images/bg3.3.jpg) no-repeat bottom;
   background-size: cover;
   z-index: 0;
   position: relative;
